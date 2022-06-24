@@ -1,7 +1,7 @@
 ## Sejam bem vindos ao meu perfil 😉
 
-- Hoje trabalho com back-end (Golang)
-- Estudando Docker e Banco de dados
+- Atualmente estudando a linguagem GO (Golang) e segurança da informação;
+- Projeto mais recente BANK
 <!--
 **duborgs/duborgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
